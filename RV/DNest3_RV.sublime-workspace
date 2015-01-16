@@ -1,0 +1,1238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"weights"
+			],
+			[
+				"pos",
+				"posterior_sample"
+			],
+			[
+				"period",
+				"periodograms"
+			],
+			[
+				"ax",
+				"ax2"
+			],
+			[
+				"Bas",
+				"BasicTimeSeries"
+			],
+			[
+				"n",
+				"num_lines2"
+			],
+			[
+				"rd",
+				"rdb_mean_files"
+			],
+			[
+				"tex",
+				"tex_files"
+			],
+			[
+				"star",
+				"star_parameters"
+			],
+			[
+				"do",
+				"do_title"
+			],
+			[
+				"per",
+				"per_raw_rvs"
+			],
+			[
+				"sta",
+				"star"
+			],
+			[
+				"new",
+				"newFig"
+			],
+			[
+				"rv",
+				"rv_plot_name"
+			],
+			[
+				"plt",
+				"plot_cmd"
+			],
+			[
+				"read",
+				"read_cmd1"
+			],
+			[
+				"resu",
+				"results_constant"
+			],
+			[
+				"ols",
+				"ols_"
+			],
+			[
+				"re",
+				"relerror"
+			],
+			[
+				"pi",
+				"pi_est"
+			],
+			[
+				"esti",
+				"estimate_pi3"
+			],
+			[
+				"est",
+				"estimate_pi2"
+			],
+			[
+				"num",
+				"num_lines"
+			],
+			[
+				"ob",
+				"objs"
+			],
+			[
+				"f2p",
+				"f2py_exec"
+			],
+			[
+				"f2",
+				"f2py_exec"
+			],
+			[
+				"mpi",
+				"mpif90_exec"
+			],
+			[
+				"m",
+				"mpif90_exec"
+			],
+			[
+				"lib",
+				"libnest"
+			],
+			[
+				"set",
+				"setgmnd"
+			],
+			[
+				"dp",
+				"dpofa"
+			],
+			[
+				"sub",
+				"subroutine"
+			],
+			[
+				"gen",
+				"genmnd"
+			],
+			[
+				"S",
+				"SUBROUTINE"
+			],
+			[
+				"Mu",
+				"MultiNest_dir"
+			],
+			[
+				"la",
+				"launch_dir"
+			],
+			[
+				"M",
+				"MultiNest_dir"
+			],
+			[
+				"sou",
+				"source_files"
+			],
+			[
+				"get",
+				"getoutput"
+			],
+			[
+				"pyas",
+				"pyasl"
+			],
+			[
+				"r",
+				"rhk"
+			],
+			[
+				"corr",
+				"correlation_plot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Data.h",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Data.cpp",
+			"settings":
+			{
+				"buffer_size": 692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "make_plots.py",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "radial_v.h",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "radial_v.cpp",
+			"settings":
+			{
+				"buffer_size": 2741,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MyModel.cpp",
+			"settings":
+			{
+				"buffer_size": 2879,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MyDistribution.h",
+			"settings":
+			{
+				"buffer_size": 778,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MyDistribution.cpp",
+			"settings":
+			{
+				"buffer_size": 1400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Software/RJObject/Distributions/Distribution.cpp",
+			"settings":
+			{
+				"buffer_size": 946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Software/RJObject/Distributions/Distribution.h",
+			"settings":
+			{
+				"buffer_size": 1614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Software/RJObject/RJObject.h",
+			"settings":
+			{
+				"buffer_size": 2640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Software/RJObject/RJObjectImpl.h",
+			"settings":
+			{
+				"buffer_size": 5446,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "postprocess.py",
+			"settings":
+			{
+				"buffer_size": 7297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "showresults.py",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "display.py",
+			"settings":
+			{
+				"buffer_size": 657,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "OPTIONS",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"matl",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"fo",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"for",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"la",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joao/Software/RJObject/Distributions/Distribution.h",
+		"/home/joao/Software/RJObject/RJObjectImpl.h",
+		"/home/joao/Software/RJObject/RV/MyModel.h",
+		"/home/joao/Software/RJObject/RV/generate_data.py",
+		"/home/joao/Software/GPdemo/gp/restore25sq.m",
+		"/home/joao/Software/GPdemo/gp/mymenu.m",
+		"/home/joao/Software/GPdemo/gp/demo2d.m",
+		"/home/joao/Software/GPdemo/gp/DEMO.m",
+		"/home/joao/Software/GPdemo/gp/contours.m",
+		"/home/joao/Software/octave-2.0.10/INSTALL",
+		"/home/joao/.cache/.fr-BCCP0F/octave-2.0.10-2.0.11.patch",
+		"/home/joao/phd/TOEII/abstract.txt",
+		"/home/joao/Software/ExoFit.v2/src/density.cc",
+		"/home/joao/Software/ExoFit.v2/src/density.h",
+		"/home/joao/Software/ExoFit.v2/src/data.h",
+		"/home/joao/Software/ExoFit.v2/src/data.cc",
+		"/home/joao/Software/ExoFit.v2/src/update.cc",
+		"/home/joao/Software/RJObject/RV/get_rvN.f90",
+		"/home/joao/Software/ExoFit.v2/src/radial_v.h",
+		"/home/joao/Software/ExoFit.v2/src/radial_v.cc",
+		"/home/joao/Software/RJObject/RV/posterior_sample.txt",
+		"/home/joao/Software/DNest3/include/MTSamplerImpl.h",
+		"/home/joao/Software/RJObject/RV/showresults.py",
+		"/home/joao/Software/RJObject/RV/fake_data.txt",
+		"/home/joao/Software/MultiNest/MultiNest_v3.9/Makefile",
+		"/home/joao/Software/RJObject/RV/Make",
+		"/home/joao/Software/RJObject/Examples/SineWaves/postprocess.py",
+		"/home/joao/Software/RJObject/Examples/SineWaves/showresults.py",
+		"/home/joao/Software/RJObject/Examples/SineWaves/MyDistribution.cpp",
+		"/home/joao/Software/RJObject/Examples/SineWaves/MyModel.h",
+		"/home/joao/Software/RJObject/Examples/SineWaves/MyModel.cpp",
+		"/home/joao/Software/RJObject/Examples/SineWaves/main.cpp",
+		"/home/joao/Software/RJObject/Makefile",
+		"/home/joao/Software/RJObject/Examples/SineWaves/display.py",
+		"/home/joao/Software/RJObject/Examples/SineWaves/MyDistribution.h",
+		"/home/joao/Software/RJObject/Examples/SineWaves/Makefile",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/main.F90",
+		"/home/joao/phd/large_program/analysis/create_reports.py",
+		"/home/joao/Work/OPEN/OPEN/classes.py",
+		"/home/joao/Dropbox/Work/Python/periodogram.py",
+		"/home/joao/Software/RJObject/main.cpp",
+		"/home/joao/.cache/.fr-NvbosN/CSLOMBS.FOR",
+		"/home/joao/phd/data/HD41248_harps.rdb",
+		"/home/joao/phd/data/metadata/sample_simbad.rdb",
+		"/home/joao/Work/Python/metal_poor_plot2.py",
+		"/home/joao/phd/large_program/analysis/star_list.dat",
+		"/home/joao/Desktop/Makefile",
+		"/home/joao/Work/Python/periodogram.py",
+		"/home/joao/Work/OPEN/OPEN/periodograms.py",
+		"/home/joao/.cache/.fr-Vibtx5/nuno_list/BD-082534_harps.rdb",
+		"/home/joao/phd/data/BD-082534_harps.rdb",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/classes.py",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/core.py",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/namelist1",
+		"/home/joao/Documents/cvitae/cv_sci_en.tex",
+		"/home/joao/phd/rv-BlindTest/data-sets/PlSystem1_harps.rdb",
+		"/home/joao/phd/rv-BlindTest/data-sets/PlSystem2_harps.rdb",
+		"/home/joao/.cache/.fr-N3nHXs/RV_challenge_dataset/PlSystem1_harps.rdb",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/params.f90",
+		"/home/joao/phd/large_program/analysis/HD21132_report.tex",
+		"/home/joao/phd/large_program/analysis/report_with_hash.tex",
+		"/home/joao/phd/data/metadata/sample_parameters.rdb",
+		"/home/joao/phd/CoRoT7_mahmoud/plot_periodograms..py",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/nestwrap.F90",
+		"/home/joao/phd/large_program/analysis/clean.py",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/periodograms.py",
+		"/home/joao/phd/large_program/analysis/HD41248_report.tex",
+		"/home/joao/phd/large_program/analysis/HD114076_report.tex",
+		"/home/joao/phd/large_program/analysis/HD114076_report.pdf",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/macros/activity_indicators_regression.py",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/commandsOPEN.py",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/ipshell.py",
+		"/home/joao/Dropbox/Work/OPEN/open.py",
+		"/home/joao/phd/data/simulated/mahmoud/corot7/LRa06_res2.dat",
+		"/home/joao/phd/data/simulated/mahmoud/corot7/LRa06_res1.dat",
+		"/home/joao/Dropbox/Work/Python/metal_poor_plot2.py",
+		"/home/joao/phd/large_program/HD175607/PriorsMCMC.txt",
+		"/home/joao/phd/large_program/analysis/HD21132_report.aux",
+		"/home/joao/phd/large_program/analysis/HD22879_report.tex",
+		"/home/joao/phd/large_program/analysis/HD114076_report.aux",
+		"/home/joao/phd/large_program/analysis/report.tex",
+		"/home/joao/phd/large_program/analysis/report.fdb_latexmk",
+		"/home/joao/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+		"/home/joao/autoscan.log",
+		"/usr/share/applications/vlc.desktop",
+		"/usr/share/applications/dropbox.desktop",
+		"/usr/share/applications/sublime_text.desktop",
+		"/usr/share/applications/libreoffice4.3-writer.desktop",
+		"/usr/share/applications/midori.desktop",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/ext/get_rvN.f90",
+		"/home/joao/Dropbox/Work/OPEN/SConstruct",
+		"/home/joao/.cache/.fr-dI6rY0/OPEN/multinest/namelist1",
+		"/tmp/HD175607_population_convergence_k2.txt",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/macros/consecutive_per.py",
+		"/home/joao/phd/Li_paper/censored_regression.py",
+		"/home/joao/phd/data/scripts/activity_correlations.py",
+		"/home/joao/Dropbox/Work/OPEN/Makefile",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/Makefile",
+		"/home/joao/Dropbox/Work/Python/metal_poor_plot1.py",
+		"/home/joao/phd/data/scripts/metal_poor_database.py",
+		"/home/joao/phd/observing_proposal_workshop/proposal/proposal.tex",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/ext/SConscript",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/SConscript",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/SConscript",
+		"/home/joao/Dropbox/Work/OPEN/MultiNest/SConscript",
+		"/home/joao/phd/data/extra/Corot7_harps.rdb",
+		"/home/joao/.conky/clock_rings.lua",
+		"/home/joao/ConkyMinimal/.conkyrc",
+		"/home/joao/run_conky.sh",
+		"/home/joao/.conky/rings-v1.2.1.lua",
+		"/home/joao/.conky/rings-v1.1.lua",
+		"/home/joao/.conky/seamod_rings.lua",
+		"/home/joao/.conkyrc_seamod",
+		"/home/joao/.conky_weather",
+		"/home/joao/.conky/conkyrc_seamod",
+		"/home/joao/.conkyrc-dark",
+		"/home/joao/.cache/.fr-vFuKk5/.conky_start.sh",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/like.f90",
+		"/home/joao/.cache/.fr-B9LZV1/Conky Minimal/.conkyrc",
+		"/home/joao/.conkyrc",
+		"/home/joao/.cache/.fr-1Fqqyt/Conky Minimal/.conkyrc",
+		"/home/joao/Dropbox/Work/python-for-astronomers/solutions_exercises_2.py",
+		"/home/joao/Software/gaussfit/source/individual/makefile",
+		"/home/joao/.cache/.fr-Zss3Sv/MultiNest_v3.9/README",
+		"/home/joao/Dropbox/Work/Python/f_ext/ranlib.f/src/random.f90",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/gp_python_wrapper.f90",
+		"/home/joao/Dropbox/Work/OPEN/OPEN/multinest/gp_utils.f90",
+		"/home/joao/Dropbox/Work/Python/f_ext/ranlib.f/linpack/dpofa.f"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"gset",
+			"is_scalar",
+			"mu",
+			"para",
+			"par",
+			"par ",
+			"[]",
+			"kind=8",
+			"mu",
+			"[1]",
+			"[]",
+			" double ",
+			"cpp",
+			"save",
+			"random.sample",
+			"per2",
+			"t",
+			"sin(2*pi*(1./10)*t",
+			"2*log(t)",
+			"10",
+			"sin(t)",
+			"400",
+			"250",
+			"450",
+			"150",
+			"log",
+			"0.04",
+			"0.2",
+			"219828",
+			".rdb",
+			".harps",
+			"_harps_mean.rdb ",
+			"HD126793",
+			"HD219828",
+			"_harps_mean.rdb",
+			"harps_mean.rdb",
+			".rdb",
+			"git add",
+			"	",
+			"logg",
+			"legend",
+			"4",
+			"0.85359165",
+			"3.70",
+			"ax3",
+			"c",
+			"vel",
+			"ax2",
+			"ax1",
+			"ht",
+			"nmeas",
+			"BminusV",
+			"_harps.rdb",
+			"icon",
+			"one",
+			"results_constant",
+			"system.results",
+			"visitor",
+			"observing mode",
+			"data",
+			"Data",
+			".conky-google-now",
+			"conky-google-now",
+			"C",
+			"compiler_path",
+			"f2py",
+			"{b}",
+			"-3",
+			"3",
+			"obsmodejust",
+			"ddt",
+			"ddtju",
+			"ddt",
+			"MakeProposal",
+			"ddt",
+			"\\end",
+			"ddt",
+			"	",
+			"-310",
+			"fileinput",
+			"-310",
+			"Ctrl",
+			"comment",
+			"f1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"!",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Data.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Data.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "make_plots.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "radial_v.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "radial_v.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2557,
+								2557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1818.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "MyModel.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1155,
+								1155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "MyDistribution.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "MyDistribution.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/joao/Software/RJObject/Distributions/Distribution.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/joao/Software/RJObject/Distributions/Distribution.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/joao/Software/RJObject/RJObject.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1843,
+								1843
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/joao/Software/RJObject/RJObjectImpl.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "postprocess.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6200,
+								6200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4903.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "showresults.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "display.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "OPTIONS",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "DNest3_RV.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
